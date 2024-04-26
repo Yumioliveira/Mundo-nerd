@@ -23,7 +23,7 @@ body {
 header { 
     text-align: center;
     color: white;
-    background-color: var(--cor3);
+    background-color: black;
     padding: 50px 0px 50px 0px;
 }
 
