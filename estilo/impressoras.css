@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+/*para impressao*/
+
+* {
+    padding: 10px;
+    margin: 10px;
+}
+
+
+
+nav {
+    display: none;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+iframe {
+    display: none;
+}
+
+article::after {
+    content: 'Esse artigo foi escrito por Yumi oliveira Gomes Bezerra';
+}
